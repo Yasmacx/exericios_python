@@ -1,41 +1,31 @@
-# Painel de Informações em Python
+# 🐍 Treinos de Python
 
-Projeto desenvolvido para praticar:
+Este repositório contém uma coleção de códigos desenvolvidos como **exercícios de prática em Python**, baseados nos cursos da plataforma **Alura**.
 
-- Funções
-- Listas
-- Estruturas condicionais
-- Organização de código
-- Menu interativo no terminal
+## 📚 Objetivo
 
-## Funcionalidades
+O objetivo deste repositório é reforçar o aprendizado da linguagem Python por meio de exercícios simples, focados em lógica de programação, estruturas básicas e resolução de problemas.
 
-- Exibir lista de números
-- Exibir lista de nomes
-- Exibir lista de anos
-- Navegação por menu
+## 🧠 Conteúdo
 
-## Tecnologias
+Os códigos presentes aqui são:
 
-- Python 3
+- Exercícios básicos de lógica
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Estruturas de repetição (`for`, `while`)
+- Funções (`def`)
+- Entrada e saída de dados (`input` e `print`)
+- Pequenos projetos e desafios simples
 
+## 🎯 Finalidade
 
-Calculadora de Números em Python
-Sobre o projeto
+Esses códigos não têm foco em projetos complexos, mas sim em **treinamento e fixação de conceitos fundamentais da programação**.
 
-Este projeto foi desenvolvido como exercício de estudo em Python para praticar conceitos fundamentais da linguagem.
+## 📌 Observação
 
-O programa trabalha com uma lista de números de 1 a 10 e realiza diferentes operações matemáticas, exibindo: 
+Os exercícios foram feitos durante os estudos na plataforma Alura e podem conter diferentes abordagens para resolver problemas simples, com o objetivo de aprendizado contínuo.
 
-Soma dos números ímpares
-Soma dos números pares
-Soma de todos os números da lista
-Tecnologias utilizadas
-Python 3
-Conceitos praticados
-Listas
-Funções
-Estruturas de repetição (for)
-Estruturas condicionais (if)
-Variáveis acumuladoras
-Organização de código
+## 🚀 Evolução
+
+Este repositório será atualizado conforme novos conteúdos forem estudados e novos exercícios forem realizados.
+
