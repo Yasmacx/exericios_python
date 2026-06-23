@@ -1,3 +1,5 @@
+#diversos estudos de laço em diferentes estruturas metematicas
+
 print("====================================")
 print("Calculador de Numeros Impares!")
 print("====================================")
