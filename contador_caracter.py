@@ -1,3 +1,5 @@
+#ele conta o numero de palavras na frase e conta letras na palavra
+
 def contar_palavras():
     return len(palavras)
 
