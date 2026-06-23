@@ -1,3 +1,5 @@
+#calculo que faz conta pelo ano que nasceu menos ano atual para descobrir idade
+
 def calcular_idade():
 
     atual = int(input("Digite o ano atual: "))
